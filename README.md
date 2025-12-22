@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Bonjour, je suis en formation CDA !</h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=%F0%9F%91%8B+Bonjour%2C+je+suis+en+formation+CDA+!" alt="Typing SVG" /></a></h1>
   <h3>Futur Concepteur Développeur d'Applications</h3>
   <p><i>Actuellement étudiant à la <b>Metz Numeric School</b> (Promo 2025-2026)</i></p>
 </div>
