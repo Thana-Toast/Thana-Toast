@@ -32,10 +32,13 @@ Voici les technologies que j'étudie et utilise dans mes projets :
 
 ### 📈 Ma progression
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thana-Toast&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thana-Toast&theme=radical)
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thana-Toast&show_icons=true&theme=radical&hide=javascript" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thana-Toast&layout=compact&theme=radical&hide=javascript" height="160" alt="languages graph" />
-</div>
+</div> -->
 
 > *Note : Comme je débute Java, mes stats GitHub vont bientôt évoluer pour refléter ce nouveau langage principal !*
 
@@ -47,3 +50,5 @@ Voici les technologies que j'étudie et utilise dans mes projets :
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+
