@@ -1,23 +1,23 @@
 <div align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=F7F7F7&vCenter=true&multiline=true&repeat=false&width=800&height=70&lines=%F0%9F%91%8B+Bonjour%2C+je+suis+Cl%C3%A9ment+TANCHOT+!" alt="Typing SVG" /></h1>
   <h3>Concepteur Développeur d'Applications (CDA)</h3>
-  <p><i>Développeur Full-Stack Java (Spring Boot) & Angular | Étudiant à la <b>Metz Numeric School</b> (Promo 2025-2026)</i></p>
+  <p><i>Développeur Full-Stack Java (Spring Boot) & Angular</i></p>
 </div>
 
 ---
 
-### 🎓 À propos de moi
+### À propos de moi
 
-En formation pour l'obtention du titre professionnel **Concepteur Développeur d'Applications (CDA)**, je conçois et développe des applications web Full-Stack sécurisées et organisées en architectures n-tiers modernes.
+Diplômé du titre de Concepteur Développeur d'Applications, je conçois et développe des applications web Full-Stack sécurisées et organisées en architectures n-tiers modernes.
 
-* 🚀 **Spécialisation Back-End** : Java 21, Spring Boot (Spring MVC, Spring Security, JPA/Hibernate), APIs RESTful, authentification JWT et bases de données relationnelles (PostgreSQL, MySQL).
-* 💻 **Spécialisation Front-End** : Angular 21 (Standalone Components, Signals, RxJS), TypeScript, Tailwind CSS et Angular Material.
-* 🛠️ **DevOps & Qualité** : Conteneurisation Docker & Docker Compose, pipelines CI/CD GitHub Actions, déploiement sur VPS Nginx et tests automatisés (JUnit 5, Mockito, MockMvc, Vitest).
-* 🎯 **Projet Fil Rouge** : Conception et réalisation de **Loc-MNS** (Plateforme complète de gestion de parc informatique, workflow de prêt et gestion d'incidents).
+* **Spécialisation Back-End** : Java 21, Spring Boot (Spring MVC, Spring Security, JPA/Hibernate), APIs RESTful, authentification JWT et bases de données relationnelles (PostgreSQL, MySQL).
+* **Spécialisation Front-End** : Angular 21 (Standalone Components, Signals, RxJS), TypeScript, Tailwind CSS et Angular Material.
+* **DevOps & Qualité** : Conteneurisation Docker & Docker Compose, pipelines CI/CD GitHub Actions, déploiement sur VPS Nginx et tests automatisés (JUnit 5, Mockito, MockMvc, Vitest).
+* **Projet Fil Rouge** : Conception et réalisation de **Loc-alHost** (Plateforme complète de gestion de parc informatique, workflow de prêt et gestion d'incidents).
 
 ---
 
-### 🛠️ Ma Stack Technique
+### Ma Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
@@ -29,17 +29,17 @@ En formation pour l'obtention du titre professionnel **Concepteur Développeur d
 
 ---
 
-### 🌟 Projet Fil Rouge – Loc-MNS
+### Projet d'examen – Loc-alHost
 
 Plateforme web d'entreprise dédiée à la gestion et au suivi du parc informatique de la Metz Numeric School.
 
-* **Back-End** : [Loc-MNS_Back-End](https://github.com/Thana-Toast/Loc-MNS_Back-End) (Java 21, Spring Boot, Spring Security JWT, PostgreSQL, Swagger UI, Export CSV/XML, JUnit/Mockito/Failsafe).
-* **Front-End** : [Loc-MNS_Front-End](https://github.com/Thana-Toast/Loc-MNS_Front-End) (Angular 21, Signals, Tailwind CSS, Angular Material, Nginx).
+* **Back-End** : [Loc-alHost_Back-End](https://github.com/Thana-Toast/Loc-MNS_Back-End) (Java 21, Spring Boot, Spring Security JWT, PostgreSQL, Swagger UI, Export CSV/XML, JUnit/Mockito/Failsafe).
+* **Front-End** : [Loc-alHost_Front-End](https://github.com/Thana-Toast/Loc-MNS_Front-End) (Angular 21, Signals, Tailwind CSS, Angular Material, Nginx).
 * **DevOps** : Architecture conteneurisée Docker Compose, reverse proxy Nginx et déploiement continu via GitHub Actions sur VPS.
 
 ---
 
-### 📈 Ma progression
+### Ma progression
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thana-Toast&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thana-Toast&theme=radical)
